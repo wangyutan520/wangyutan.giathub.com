@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### 个人信息
+· 姓名：王玉昙
+· 学历：本科
+· 学校：石家庄铁道大学
+· 邮箱：1572227371@qq.com
+· 家庭地址：河北省唐山市丰南区双湖锦苑120栋1单元
 
-You can use the [editor on GitHub](https://github.com/wangyutan520/wangyutan.giathub.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 最新消息
+· 王玉昙又帅了
+· 王玉昙又又帅了
+· 王玉昙又又又变帅了
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 学习方向
+· java语言
+· python语言
+· hadoop
+· mysql
 
-### Markdown
+### 项目经验
+· 河北重大科技征集系统
+· 学生信息管理系统
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyutan520/wangyutan.giathub.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
